@@ -3,7 +3,7 @@
 ## Links
 
 - [Feb 10 Session Livestream recording](https://www.facebook.com/domistation/videos/654309529048819/)
-- [Nomad release downloads)(https://releases.hashicorp.com/nomad/)
+- [Nomad release downloads](https://releases.hashicorp.com/nomad/)
 - [Nomad Pack release downloads](https://releases.hashicorp.com/nomad-pack/)
 - [faasd nomad pack](https://github.com/hashicorp/nomad-pack-community-registry/tree/main/packs/faasd)
 - [Nomad Vagrant setup instructions](https://discuss.hashicorp.com/t/local-nomad-cluster-using-vagrant/33067/9?u=derekstrickland)
