@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Feb 10 Session Livestream recording](https://www.facebook.com/domistation/videos/654309529048819/)
+- [Feb 10 Session Livestream recording](https://www.youtube.com/watch?v=bvI3sLYZgqY)
 - [Nomad release downloads](https://releases.hashicorp.com/nomad/)
 - [Nomad Pack release downloads](https://releases.hashicorp.com/nomad-pack/)
 - [faasd nomad pack](https://github.com/hashicorp/nomad-pack-community-registry/tree/main/packs/faasd)
